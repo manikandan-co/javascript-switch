@@ -1,33 +1,56 @@
-# ![JSS](/icons/icon48.png) Javascript Switch
+# ![JavaScript Switch](icons/icon48.png) JavaScript Switch Extension
 
-## 💎 Chrome/Edge Extension
+> **A simple and powerful Chrome/Edge extension to toggle JavaScript ON/OFF**
 
-Developers and Users can switch JavaScript ON/OFF
-- To block vulnerable JavaScript programs and
-- To test accessibility of the website
+## 🚀 Overview
 
-## 🌄 World without Javascript
+JavaScript Switch is a lightweight and efficient Chrome/Edge extension that allows developers and users to enable or disable JavaScript on any website with a single click.
 
-When you switch off the javascript for a website, you will enter into a new world with
-- No ads
-- No endless scrolling
-- No Pop up
-- No Cookies
-- No Local Storage
+### ✨ Why Use JavaScript Switch?
 
-It means no data storing and sharing with advertisers and third party vulnerable programs. Enter into this new world of websites with Javascript Switch.
+- **Block vulnerable scripts** that may compromise security
+- **Test website accessibility** without JavaScript
+- **Enhance browsing experience** by reducing distractions
 
-## 🔮 Platforms Available
-- On [Microsoft Store][ms-store-link] for Edge Browsers.
-- On [Chrome Web Store][chrome-store-link] for Chrome Browsers.
+## 🌎 A World Without JavaScript
 
-## 😘 In Love with this ultimate extension?
-If this extention saves your time and you are really in love with it, then please rate ⭐ and write review ✍ for my extension.
+Disabling JavaScript transforms your web experience:
+✅ No intrusive ads  
+✅ No endless scrolling  
+✅ No pop-ups  
+✅ No cookies or local storage tracking
 
+With JavaScript disabled, your data stays private—no third-party tracking or unauthorized data sharing.
 
-[ms-store-link]:https://microsoftedge.microsoft.com/addons/detail/cmdcconnebecmnehjjddjgoanaiilene
-[chrome-store-link]:https://chrome.google.com/webstore/detail/javascript-switch/fopnmaooogcdcnofegdbcgfbgpkhgoae
+## 📌 Features
 
-Thank You!
+- Quick toggle JavaScript ON/OFF
+- One-click activation from the browser toolbar
+- No background scripts for better performance
+- Supports all Chromium-based browsers
+- Lightweight & privacy-focused
 
-<a href="https://mkdr390.github.io" target="_blank" >Manikandan Ramar</a>
+## 🛠 Platforms Available
+
+JavaScript Switch is available for:
+
+- **[Chrome Web Store](https://chrome.google.com/webstore/detail/javascript-switch/fopnmaooogcdcnofegdbcgfbgpkhgoae)** (For Chrome and other Chromium browsers)
+- **[Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/cmdcconnebecmnehjjddjgoanaiilene)** (For Edge browsers)
+
+## 💖 Love This Extension?
+
+If JavaScript Switch has improved your browsing experience, please consider:
+
+- **⭐ Rating it** on the Web Store
+- **✍ Writing a review** to help others discover it
+
+Your support keeps this extension alive! 🚀
+
+## 📧 Contact
+
+Developed by [Manikandan Ramar](https://manikandan.co)  
+For feedback or suggestions, reach out via [my website](https://manikandan.co/javascript-switch-extension).
+
+---
+
+Thank you for using JavaScript Switch! 🚀
